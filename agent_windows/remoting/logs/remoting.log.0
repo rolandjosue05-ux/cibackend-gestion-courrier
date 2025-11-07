@@ -1,0 +1,10 @@
+nov. 07, 2025 9:31:49 AM hudson.remoting.Launcher createEngine
+INFO: Setting up agent: windows
+nov. 07, 2025 9:31:49 AM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3327.v868139a_d00e0
+nov. 07, 2025 9:31:49 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Users\OPERATEUR 19\Desktop\cibackend-gestion-courrier\agent_windows\remoting as a remoting work directory
+nov. 07, 2025 9:31:49 AM hudson.remoting.Launcher$CuiListener status
+INFO: WebSocket connection open
+nov. 07, 2025 9:31:49 AM hudson.remoting.Launcher$CuiListener status
+INFO: Connected
